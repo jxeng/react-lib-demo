@@ -1,7 +1,7 @@
 {
-  "name": "bullet-screen",
+  "name": "react-lib-demo",
   "version": "1.0.0",
-  "description": "bullet screen",
+  "description": "react-lib demo",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "scripts": {
